@@ -1,0 +1,63 @@
+/*page login*/
+*{
+    margin : 0 ;
+    bottom : 0 ;
+}
+body{
+    background-image : url('img/beg.jpg') ;
+    background-size : 1550px auto ;
+    background-repeat : no-repeat;
+    box-sizing : border-box ;
+    display : flex ;
+    justify-content : center ;
+    height : 100vh ;
+}
+.card{
+    margin : 0 ;
+    padding : 0 ;
+    width: 400px;
+    height: 600px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-color: #fff;
+    background-position: center;
+    background-size: cover; 
+    margin-top : 4rem ;  
+    margin-left : 17rem ; 
+}
+.card h3{
+    padding-top: 3rem ;
+    text-align : center ;
+    font-size : 30px ;
+}
+.form{
+    margin-top : 5rem ;
+}
+.head-text h1 {
+    color: white ;
+    margin-top : 4rem ; 
+    font-size : 6rem  ;
+    margin-right : 9rem ;
+}
+.head-text h3 {
+    color: white ;
+    margin-left : 1rem ;
+
+}
+form input{
+    width: 21rem ; 
+    height :45px ;
+    border: 1px solid grey ; 
+    background-color : #f7f2f2 ;  
+    border-radius : 5px ; 
+}
+.btn{
+    width : 6rem ; 
+    height : 35px ;
+}
+
+
